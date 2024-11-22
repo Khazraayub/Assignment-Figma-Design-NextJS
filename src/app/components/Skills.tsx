@@ -6,7 +6,7 @@ export default function Skills() {
 
         <div className="text-center">
             <h2 className='text-[32px] text-[#457B9D] font-bold py-5 '>Skills</h2>
-            <h1 className='text-[48px]  font-extrabold'>What I am capable of?</h1>
+            <h1 className='text-[48px] text-black font-extrabold'>What I am capable of?</h1>
         </div>    
 
         <div className='flex flex-wrap justify-center items-center mt-9 gap-x-10 gap-y-8'>

@@ -10,7 +10,7 @@ export default function Hero() {
           Hi Everyone, I'am
         </h2>
         <h1 className="text-black font-bold  text-[48px]">Khazra Shaikh</h1>
-        <p className=" md:text-[18px] text-[14px]">
+        <p className=" md:text-[18px] text-black text-[14px]">
           Assalamualaikum! I’m a Khazra Shaikh Telecom Engineer and a love for
           crafting efficient and visually compelling digital experiences. I
           specialize in building responsive, user-centered websites and

@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className='min-h-[100%] mx-auto flex  lg:px-20 py-20 px-6  md:px-36 md:flex-row gap-x-5 justify-between items-center flex-col-reverse'>
+    <div className='min-h-[100%] mx-auto flex bg-white lg:px-20 py-20 px-6  md:px-36 md:flex-row gap-x-5 justify-between items-center flex-col-reverse'>
 
         <div className='lg:w-[40%] w-full py-5'>
             <img

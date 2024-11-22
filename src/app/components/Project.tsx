@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Project() {
   return (
-    <div className="min-h-[100%] w-full  flex flex-col my-16 justify-center items-center">
+    <div className="min-h-[100%] w-full bg-white flex flex-col my-16 justify-center items-center">
       <div className="text-center">
         <h2 className="text-[32px] text-[#457B9D] font-bold py-5 ">Projects</h2>
         <h1 className="text-[48px]  font-extrabold">What I have made?</h1>
