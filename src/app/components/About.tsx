@@ -13,7 +13,7 @@ export default function About() {
 
         <div className=" lg:w-[60%] text-center lg:text-start w-full py-9 ">
             <h2 className='text-[#457B9D] text-[24px] font-bold py-4'>About</h2>
-            <h1 className='text-[48px] font-extrabold  '>About Me?</h1>
+            <h1 className='text-[48px] text-black font-extrabold  '>About Me?</h1>
             <p className='text-[#457B9D]'>Assalamualaikum!
           I am Khazra Ayub.
           Alhamdulillah Telecom Engineer graduate from Mehran University of Engineering and Technology. 

@@ -7,7 +7,7 @@ export default function Project() {
     <div className="min-h-[100%] w-full bg-white flex flex-col my-16 justify-center items-center">
       <div className="text-center">
         <h2 className="text-[32px] text-[#457B9D] font-bold py-5 ">Projects</h2>
-        <h1 className="text-[48px]  font-extrabold">What I have made?</h1>
+        <h1 className="text-[48px] text-black  font-extrabold">What I have made?</h1>
       </div>
       
       
@@ -23,10 +23,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
               Hello World Project In Next.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
               This is my first project using Tailwind CSS in Next.JS.
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
@@ -64,10 +64,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
             Login-Signup Page In Nex.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
             This is a Login & SignUp Page. It is design by me using Tailwind CSS in Next.JS.
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
@@ -102,10 +102,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
             My GIAIC Id-Card In Nex.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
             This is a Student Id Card Project using Tailwind CSS in Next.JS. I design mine.
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
@@ -140,10 +140,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
             Pizza House Website In Nex.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
             This is a Pizza House Food Website using Tailwind CSS in Next.JS.
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
@@ -177,10 +177,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
             CountDown Timer In Nex.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
             This is a Count Down timer Project using Tailwind CSS in Next.JS.
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
@@ -214,10 +214,10 @@ export default function Project() {
             className="w-full pb-3 rounded-lg cursor-pointer "
           />
           <div className="px-3">
-            <h3 className="font-bold text-[20px]">
+            <h3 className="font-bold text-black text-[20px]">
             Todo App In Nex.JS
             </h3>
-            <p className="text-[13px] pt-2">
+            <p className="text-[13px] text-black pt-2">
             This is a Todo app Project using Tailwind CSS in Next.JS. 
             </p>
             <div className="pt-4 flex justify-start items-center gap-x-9">
